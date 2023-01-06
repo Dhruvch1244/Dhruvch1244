@@ -22,6 +22,8 @@
 
 - Exploring Machine Learning.
 
+- Looking for developing new projects.
+
 - :zap: In my free time, I solve problems on Leetcode and watch Youtube.
 ---
 
