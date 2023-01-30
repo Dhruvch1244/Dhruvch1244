@@ -21,7 +21,7 @@
 
 - Currently in 2nd year at SRMIST.
 
-- Exploring Machine Learning.
+- Exploring app dev.
 
 - Looking for developing new projects.
 
