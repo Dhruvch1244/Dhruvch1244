@@ -21,7 +21,7 @@
 
 - Currently in 2nd year at SRMIST.
 
-- Exploring app dev.
+- Exploring full stack dev.
 
 - Looking for developing new projects.
 
