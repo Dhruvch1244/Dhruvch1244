@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/dhruv-choudhary-b8b1a9229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@dhruvchoudhary9560/about">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/dhruvch52">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -17,19 +14,26 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- Machine Learning enthusiast :robot: .
+- App Developer 📴
 
-- Currently in 2nd year at SRMIST.
+- Machine Learning enthusiast :robot: .
 
 - Exploring full stack dev.
 
-- Looking for developing new projects.
+- Currently in 2nd year at SRMIST.
+
+- Looking forward to develop new projects.
 
 - In my free time, I solve problems on Leetcode and watch Youtube :zap:.
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png"  title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"  title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://www.computerhope.com/jargon/k/kotlin.png"  title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://www.bookofnetwork.com/images/code/images/r.jpg"  title="R" alt="R" width="40" height="40"/>&nbsp;
