@@ -16,11 +16,11 @@
 
 - App Developer 📴
 
-- Machine Learning enthusiast :robot: .
+- Machine Learning enthusiast <img src="https://media.giphy.com/media/7kaUYqvAc0irK/giphy.gif" width="30px"/>
 
-- Exploring full stack dev.
+- Exploring full stack dev.  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="30px"/>
 
-- Currently in 2nd year at SRMIST.
+- Currently in 2nd year at SRMIST. 
 
 - Looking forward to develop new projects.
 
@@ -46,16 +46,28 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvch1244&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvch1244&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cdrv5)](https://github.com/anuraghazra/github-readme-stats)
+### 🥇 Top Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvch1244&layout=pie&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+### :fire: Github Streak :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvch1244&theme=onedark)](https://github.com/dhruvch1244)
+
+---
+
+### ⭐ WakaTime Stats :
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cdrv5&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 <!---
 Dhruvch1244/Dhruvch1244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
