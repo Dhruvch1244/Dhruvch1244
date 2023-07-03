@@ -50,12 +50,13 @@
 ---
 
 ### :fire: My Stats :
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvch1244&show_icons=true&theme=onedark)
+
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvch1244\&bg_color=30,3B2042,000000\&title_color=fff\&text_color=fff)
 
 ---
 
 ### 🥇 Top Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvch1244&layout=pie&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvch1244\&layout=donut-vertical&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
