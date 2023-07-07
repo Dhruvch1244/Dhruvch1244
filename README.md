@@ -16,6 +16,8 @@
 
 - App Developer 📴
 
+- Data Analyst
+
 - Machine Learning enthusiast <img src="https://media.giphy.com/media/7kaUYqvAc0irK/giphy.gif" width="30px"/>
 
 - Exploring full stack dev.  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="30px"/>
