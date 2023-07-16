@@ -1,3 +1,5 @@
+
+<div id="new" align="center">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100"/>
 </div>
@@ -10,24 +12,12 @@
   </a>
 </div>
 <h1>
-  Hey there :)
+Welcome to my github profile:)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-- App Developer 📴
-
-- Data Analyst
-
-- Machine Learning enthusiast <img src="https://media.giphy.com/media/7kaUYqvAc0irK/giphy.gif" width="30px"/>
-
-- Exploring full stack dev.  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="30px"/>
-
-- Currently in 2nd year at SRMIST. 
-
-- Looking forward to develop new projects.
-
-- In my free time, I solve problems on Leetcode and watch Youtube :zap:.
-
+<p align="center">
+  <a href="https://github.com/Dhruvch1244"><img src="https://readme-typing-svg.herokuapp.com?lines=App+Developer;Dart%20|%20JavaScript%20|%20Cpp%20|%20Python%20|%20Kotlin;Full+stack+Developer;Data+Analyst;Looking%20Forward%20for%20new%20projects&center=true&width=600&height=50"></a>
+</p>
 
 ---
 
