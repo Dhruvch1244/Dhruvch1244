@@ -52,11 +52,6 @@ Welcome to my github profile:)
 
 ---
 
-### :fire: Github Streak :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvch1244&theme=onedark)](https://github.com/dhruvch1244)
-
----
-
 ### ⭐ WakaTime Stats :
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cdrv5&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
