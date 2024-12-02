@@ -58,7 +58,7 @@ Welcome to my github profile:)
 ---
 
 ### ⭐ WakaTime Stats :
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cdrv5&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cdrv5&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <!---
